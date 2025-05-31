@@ -58,8 +58,7 @@ Contains diplomas and records of completed nanodegree programs.
 ## 👤 About Me
 
 - **Name**: Yao Théodore DORVI / Thedy
-- **Student at**: Althash University
-- **Contact**: 
+- **Student at**: Althash University 
 
 ---
 
